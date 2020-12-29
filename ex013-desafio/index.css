@@ -27,3 +27,12 @@ iframe{
 table{
     margin: auto;
 }
+
+.botao{
+    margin-top: 3%;
+    
+}
+
+#imgbotao{
+    width: 8%;
+}
